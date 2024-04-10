@@ -7,8 +7,8 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/muppychae1"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/28a07281-b954-4c69-9939-b42b29f467cc" width="150px;" alt=""/><br /><sub><b>PM 박채원</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ssilverrain"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/af3a4bd0-7ac2-4f50-a58a-8801ab432139" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/b2e8565f-ad17-4ae2-9b4e-c6da1b845026" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="150px;" alt=""/><br /><sub><b>양승연</b></sub></a><br /></td>
      <tr/>
       <td align="center"><a href=""><img src="" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
