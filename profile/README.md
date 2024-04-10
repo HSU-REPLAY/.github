@@ -1,6 +1,7 @@
-## 2024 Hansung University REPLAY Team👋
+## Hi there, we are REPLAY team!👋
 
-🙋‍♀️REPLAY Team for Cisco Hackathon🌈
+🙋‍♀️Hi, we are REPLAY Team in Hansung University for Cisco Hackathon🌈
+
 <!--
 
 **Here are some ideas to get you started:**
