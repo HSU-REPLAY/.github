@@ -1,6 +1,6 @@
 ## Hi there, we are REPLAY!👋
 
-🙋‍♀️Hi, we are REPLAY Team in Hansung University for Cisco Hackathon🌈
+🙋‍♀️Hi, we are Team REPLAY in Hansung University for Cisco Hackathon🌈
 
 ### 👨‍👩‍👧‍👧Team Members
 <table>
