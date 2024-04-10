@@ -8,10 +8,10 @@
     <tr>
       <td align="center"><a href="https://github.com/muppychae1"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/28a07281-b954-4c69-9939-b42b29f467cc" width="150px;" alt=""/><br /><sub><b>PM 박채원</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ssilverrain"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/af3a4bd0-7ac2-4f50-a58a-8801ab432139" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/b2e8565f-ad17-4ae2-9b4e-c6da1b845026" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/d34e153a-2fdd-4212-89b6-3d78aca8f0f8" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/YseungY"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/4c05294e-795b-4f33-a42e-0c15ae0da2cc" width="150px;" alt=""/><br /><sub><b>양승연</b></sub></a><br /></td>
      <tr/>
-      <td align="center"><a href="https://github.com/yoondanbi"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/a4e47548-abd8-42be-af95-289ae75e486d" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yoondanbi"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/a674536c-7189-4afe-9e7c-d8d44fecb2a0" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/flsrinn"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/6557350f-5003-4bc1-aa87-e854104ee6d5" width="150px;" alt=""/><br /><sub><b>전아린</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/niroey"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/417aa198-458b-4f4c-b927-548ab0a699d7" width="150px;" alt=""/><br /><sub><b>하여린</b></sub></a><br /></td>
     </tr>
