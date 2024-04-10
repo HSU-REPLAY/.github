@@ -6,7 +6,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>PM 박채원</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/e4e18e70-1911-468c-b0f8-19916f638552
+" width="100px;" alt=""/><br /><sub><b>PM 박채원</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>양승연</b></sub></a><br /></td>
