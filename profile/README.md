@@ -8,7 +8,7 @@
     <tr>
       <td align="center"><a href="https://github.com/muppychae1"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/28a07281-b954-4c69-9939-b42b29f467cc" width="150px;" alt=""/><br /><sub><b>PM 박채원</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ssilverrain"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/af3a4bd0-7ac2-4f50-a58a-8801ab432139" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/d34e153a-2fdd-4212-89b6-3d78aca8f0f8" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mvg01"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/292fbf51-0de8-4e3a-8555-3fc80f5c5a15" width="150px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/YseungY"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/4c05294e-795b-4f33-a42e-0c15ae0da2cc" width="150px;" alt=""/><br /><sub><b>양승연</b></sub></a><br /></td>
      <tr/>
       <td align="center"><a href="https://github.com/yoondanbi"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/a674536c-7189-4afe-9e7c-d8d44fecb2a0" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
