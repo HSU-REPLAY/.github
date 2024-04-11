@@ -13,7 +13,7 @@
      <tr/>
       <td align="center"><a href="https://github.com/yoondanbi"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/a674536c-7189-4afe-9e7c-d8d44fecb2a0" width="150px;" alt=""/><br /><sub><b>윤단비</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/flsrinn"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/6557350f-5003-4bc1-aa87-e854104ee6d5" width="150px;" alt=""/><br /><sub><b>전아린</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/niroey"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/417aa198-458b-4f4c-b927-548ab0a699d7" width="150px;" alt=""/><br /><sub><b>하여린</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/niroey"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/82fdc66f-1bbf-41e1-94c9-a34e646c3cb3" width="150px;" alt=""/><br /><sub><b>하여린</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
